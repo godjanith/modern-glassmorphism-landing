@@ -10,7 +10,7 @@
 
 *A modern, interactive digital design & frontend engineering studio showcase built with HTML5, Tailwind CSS, WebGL particles, and dark glassmorphism.*
 
-[Live Demo](https://godjanith.github.io/modern-glassmorphism-landing/) · [Report Bug](https://github.com/godjanith/modern-glassmorphism-landing/issues) · [Request Feature](https://github.com/godjanith/modern-glassmorphism-landing/issues)
+[Live Demo](https://modern-glassmorphism-landing.vercel.app) · [Report Bug](https://github.com/godjanith/modern-glassmorphism-landing/issues) · [Request Feature](https://github.com/godjanith/modern-glassmorphism-landing/issues)
 
 </div>
 
